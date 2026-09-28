@@ -34,5 +34,5 @@ st.markdown("<div class='main-title'>Malaria Detection</div>", unsafe_allow_html
 st.markdown("<div class='sub-title'>Une solution intelligente pour accélérer et fiabiliser le diagnostic du paludisme</div>", unsafe_allow_html=True)
 
 st.write("### Bienvenue !")
-st.write("Cette application utilise un modèle d'intelligence artificielle basé sur **ResNet50** pour détecter automatiquement la présence du parasite du paludisme sur des images microscopiques de frottis sanguins. ")
-st.write("➡️ Utilisez la section **Détection** dans le menu pour tester l'application avec vos propres images.")
+st.write("Cette application utilise l'intelligence artificielle pour détecter la présence de parasites du paludisme dans les images de frottis sanguins. Elle est conçue pour aider les professionnels de santé à diagnostiquer rapidement et avec précision le paludisme, en complément des méthodes traditionnelles.")
+st.write("Utilisez la section **Détection** dans le menu pour tester l'application avec vos propres images.")
