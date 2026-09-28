@@ -30,7 +30,7 @@ def add_bg_from_local(image_file):
         background: rgba(0,0,0,0);
     }}
     [data-testid="stSidebar"] {{
-        background: rgba(255,255,255,0.85);
+        background: rgba(55,47,47,0.85);
     }}
     </style>
     """
